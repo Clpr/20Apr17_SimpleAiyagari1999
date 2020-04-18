@@ -6,6 +6,7 @@
 ## Setup
 
 Typical household:
+
 $$
 \begin{align}
 \max & \mathbb{E}_{0} \sum^{\infty}_{t=0} \beta^{t} \frac{c_{t}^{1-\mu}}{1-\mu}, \mu>0 \\
@@ -17,10 +18,13 @@ $$
 \end{cases}
 \end{align}
 $$
+
 Firm:
+
 $$
 Y = F(K,L) = K^{\theta}L^{1-\theta}
 $$
+
 Baseline parameters:
 
 | Parameters | Values |
